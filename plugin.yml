@@ -1,0 +1,9 @@
+softdepend: [Essentials]
+name: MinimumLivingSecurity
+main: com.minecraft.plugin.MLSPlugin
+version: 1.1.0
+author: Tomoto
+
+commands:
+  mls:
+    description: 领取低保
